@@ -1,3 +1,3 @@
 # hello-world
 
-hi every, i am a newbie here!
+hi everyone, i am a newbie here!
